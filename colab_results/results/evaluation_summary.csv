@@ -1,0 +1,3 @@
+policy,travel_time_mean,travel_time_std,lane_changes_mean,lane_changes_std,arrival_rate,collision_rate,mean_speed,total_reward_mean
+DQN,72.82,9.95,13.74,1.7,1.0,0.0,12.92,60.11
+SUMO_default,93.28,9.69,11.5,0.51,1.0,0.0,10.03,56.71

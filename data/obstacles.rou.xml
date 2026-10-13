@@ -1,0 +1,24 @@
+<routes>
+		<route id="r_0" edges="E0"/>
+		<vType id="obstacle" vClass="passenger" />
+    <!-- <trip id="t1_0" depart="0.00" type="obstacle" departPos="100.0" color="255,16,0" departLane="1" from="E0" to="E0"/>
+    <trip id="t0_0" depart="0.00" type="obstacle" departPos="50" color="255,16,0" departLane="0" from="E0" to="E0"/>
+    <trip id="t1_1" depart="0.00" type="obstacle" departPos="200.0" color="255,16,0" departLane="1" from="E0" to="E0"/>
+    <trip id="t0_1" depart="0.00" type="obstacle" departPos="150" color="255,16,0" departLane="0" from="E0" to="E0"/>
+    <trip id="t1_2" depart="0.00" type="obstacle" departPos="300.0" color="255,16,0" departLane="1" from="E0" to="E0"/>
+    <trip id="t0_2" depart="0.00" type="obstacle" departPos="250" color="255,16,0" departLane="0" from="E0" to="E0"/>
+    <trip id="t1_3" depart="0.00" type="obstacle" departPos="400.0" color="255,16,0" departLane="1" from="E0" to="E0"/> -->
+    <trip id="t0_3" depart="0.00" type="obstacle" departPos="350" color="255,16,0" departLane="0" from="E0" to="E0"/>
+    <trip id="t1_4" depart="0.00" type="obstacle" departPos="500.0" color="255,16,0" departLane="1" from="E0" to="E0"/>
+    <trip id="t0_4" depart="0.00" type="obstacle" departPos="450" color="255,16,0" departLane="0" from="E0" to="E0"/>
+    <trip id="t1_5" depart="0.00" type="obstacle" departPos="600.0" color="255,16,0" departLane="1" from="E0" to="E0"/>
+    <trip id="t0_5" depart="0.00" type="obstacle" departPos="550" color="255,16,0" departLane="0" from="E0" to="E0"/>
+    <trip id="t1_6" depart="0.00" type="obstacle" departPos="700.0" color="255,16,0" departLane="1" from="E0" to="E0"/>
+    <trip id="t0_6" depart="0.00" type="obstacle" departPos="650" color="255,16,0" departLane="0" from="E0" to="E0"/>
+    <trip id="t1_7" depart="0.00" type="obstacle" departPos="800.0" color="255,16,0" departLane="1" from="E0" to="E0"/>
+    <trip id="t0_7" depart="0.00" type="obstacle" departPos="750" color="255,16,0" departLane="0" from="E0" to="E0"/>
+    <trip id="t1_8" depart="0.00" type="obstacle" departPos="900.0" color="255,16,0" departLane="1" from="E0" to="E0"/>
+    <trip id="t0_8" depart="0.00" type="obstacle" departPos="850" color="255,16,0" departLane="0" from="E0" to="E0"/>
+    <trip id="t1_9" depart="0.00" type="obstacle" departPos="1000.0" color="255,16,0" departLane="1" from="E0" to="E0"/>
+    <trip id="t0_9" depart="0.00" type="obstacle" departPos="950" color="255,16,0" departLane="0" from="E0" to="E0"/>
+</routes>

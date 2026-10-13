@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+gymnasium
+stable-baselines3>=2.0
+torch
+tensorboard
+# SUMO (>= 1.16) doit être installé ; traci et sumolib sont fournis dans $SUMO_HOME/tools
+# ou via : pip install traci sumolib
+traci
+sumolib
+# Uniquement pour record_video.py (enregistrement MP4)
+imageio
+imageio-ffmpeg

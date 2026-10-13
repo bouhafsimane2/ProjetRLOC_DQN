@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.zip binary
+*.npy binary
+*.png binary
+*.ipynb text eol=lf
+events.out.tfevents.* binary

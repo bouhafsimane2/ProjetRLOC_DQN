@@ -1,0 +1,4 @@
+policy,travel_time,travel_time_std,lane_changes,useless,arrival,collisions,speed,reward
+Q-learning,75.92,8.51,11.5,0.0,1.0,0.0,12.33,49.81
+DQN,73.1,9.74,11.5,0.0,1.0,0.0,12.86,50.01
+SUMO_default,93.7,9.23,11.5,0.0,1.0,0.0,9.98,46.28

@@ -1,0 +1,17 @@
+# Environnements Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Vidéos générées par record_video.py (lourdes)
+videos/
+
+# Fichiers temporaires SUMO / notebooks
+*.log
+.ipynb_checkpoints/
+
+# Divers
+.DS_Store
+Thumbs.db
